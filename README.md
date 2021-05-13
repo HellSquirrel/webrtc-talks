@@ -15,3 +15,10 @@
 ## Блоги и интересные видяшки
 [Много докладов о WebRTC на английском](https://www.youtube.com/c/KrankyGeek)
 [Блог о WebRTC](https://webrtchacks.com/)
+
+## Инструменты
+
+[selfsigned](https://github.com/jfromaniello/selfsigned#readme)
+(pion - WebRTC на GO)[https://pion.ly/]
+[WebRTC rust](https://github.com/webrtc-rs/webrtc)
+[mediasoup - SFU server + client](http://mediasoup.com/)

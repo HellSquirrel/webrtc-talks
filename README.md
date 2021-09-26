@@ -1,7 +1,10 @@
 ## Материалы к докладам WebRTC
 
 ## Слайды
-[Слайды на Speaker deck (DUMP)](https://speakerdeck.com/hellsquirrel/rtc-pochti-rtc-i)
+
+[Слайды 404](https://speakerdeck.com/hellsquirrel/webrtc-404)
+
+[Слайды DUMP](https://speakerdeck.com/hellsquirrel/rtc-pochti-rtc-i)
 
 
 ## Что почитать о WebRTC
@@ -16,10 +19,12 @@
 [W3C описание требований к будущим версиям](https://www.w3.org/TR/webrtc-nv-use-cases/)
 
 
-## Блоги и интересные видяшки
-[Много докладов о WebRTC на английском](https://www.youtube.com/c/KrankyGeek)
+## Кодеки
 
-[Блог о WebRTC](https://webrtchacks.com/)
+[Lyra](https://ai.googleblog.com/2021/02/lyra-new-very-low-bitrate-codec-for.html)
+
+[Satin](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/satin-microsoft-s-latest-ai-powered-audio-codec-for-real-time/ba-p/2141382)
+
 
 ## Инструменты
 
@@ -32,9 +37,14 @@
 [mediasoup - SFU server + client](http://mediasoup.com/)
 
 
-# Будущее
+## Будущее
 [Web Codecs](https://web.dev/webcodecs/)
 
 [Insertable Streams](https://w3c.github.io/mediacapture-transform/)
 
 [Web Transport](https://w3c.github.io/webtransport/)
+
+## Блоги и интересные видяшки
+[Много докладов о WebRTC на английском](https://www.youtube.com/c/KrankyGeek)
+
+[Блог о WebRTC](https://webrtchacks.com/)

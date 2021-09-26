@@ -30,3 +30,9 @@
 [WebRTC rust](https://github.com/webrtc-rs/webrtc)
 
 [mediasoup - SFU server + client](http://mediasoup.com/)
+
+
+# Будущее
+[Web Codecs](https://web.dev/webcodecs/)
+[Insertable Streams](https://w3c.github.io/mediacapture-transform/)
+[Web Transport](https://w3c.github.io/webtransport/)

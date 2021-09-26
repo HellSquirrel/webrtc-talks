@@ -1,4 +1,4 @@
-## Материалы к докладам WebRCT
+## Материалы к докладам WebRTC
 
 ## Слайды
 [Слайды на Speaker deck (DUMP)](https://speakerdeck.com/hellsquirrel/rtc-pochti-rtc-i)

@@ -1,7 +1,7 @@
-## Материалы к докладу «RTC почти RTC и 🧟‍♂️»
+## Материалы к докладам WebRCT
 
 ## Слайды
-[Слайды на Speaker deck](https://speakerdeck.com/hellsquirrel/rtc-pochti-rtc-i)
+[Слайды на Speaker deck (DUMP)](https://speakerdeck.com/hellsquirrel/rtc-pochti-rtc-i)
 
 
 ## Что почитать о WebRTC

@@ -18,6 +18,8 @@
 
 [W3C описание требований к будущим версиям](https://www.w3.org/TR/webrtc-nv-use-cases/)
 
+[WebRTC for curious](https://github.com/webrtc-for-the-curious/webrtc-for-the-curious)
+
 
 ## Кодеки
 

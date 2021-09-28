@@ -32,7 +32,7 @@
 
 [selfsigned](https://github.com/jfromaniello/selfsigned#readme)
 
-(pion - WebRTC на GO)[https://pion.ly/]
+[pion - WebRTC на GO](https://pion.ly/)
 
 [WebRTC rust](https://github.com/webrtc-rs/webrtc)
 
